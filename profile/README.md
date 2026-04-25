@@ -1,7 +1,6 @@
 ## Hello World!
 
-^w^
-
+This Github organization is meant for looking for collaborators, read learning materials, and to build real-world applications
 <!--
 
 **Here are some ideas to get you started:**
